@@ -20,6 +20,7 @@ li {
 }
 
 /* heading */
+
 header {
     background-color: #c1bcbc;
     color: #333;
@@ -55,6 +56,13 @@ header a{
     justify-content: space-around;
 }
 
+.images img{
+     height: 90px;
+    width: 100px;
+    margin: 50px 0 0 20px;
+    border-radius: 5px;
+}
+
 .hero{
     width: 35%;
 }
@@ -71,4 +79,22 @@ width: 35%;
 
 h1 span{
     color: #5ac2e4;
+}
+
+img{
+    width: 95%;
+    height: 100%;
+}
+
+/* footer */
+
+footer{
+    text-align: center;
+    color: blue;
+    background-color: #170f32;
+    padding: 28px;
+}
+
+footer p{
+    font-size: 20px;
 }
