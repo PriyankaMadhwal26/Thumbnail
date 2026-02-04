@@ -30,17 +30,17 @@ header {
     padding: 10px 20px;
 }
 
-header a{
+header a {
     color: #333;
 }
 
-.nav-list{
+.nav-list {
     display: flex;
     justify-content: center;
     gap: 20px;
 }
 
-.btn{
+.btn {
     color: #fff;
     background-color: blue;
     padding: 10px 20px;
@@ -50,51 +50,51 @@ header a{
 
 /* hero-section */
 
-#hero{
+#hero {
     padding: 150px 0;
     display: flex;
     justify-content: space-around;
 }
 
-.images img{
-     height: 90px;
+.images img {
+    height: 90px;
     width: 100px;
     margin: 50px 0 0 20px;
     border-radius: 5px;
 }
 
-.hero{
+.hero {
     width: 35%;
 }
 
-.hero h1{
+.hero h1 {
     font-weight: 700;
     font-size: 45px;
     letter-spacing: 0.5px;
 }
 
-.hero-content{
-width: 35%;
+.hero-content {
+    width: 35%;
 }
 
-h1 span{
+h1 span {
     color: #5ac2e4;
 }
 
-img{
+img {
     width: 95%;
     height: 100%;
 }
 
 /* footer */
 
-footer{
+footer {
     text-align: center;
     color: blue;
     background-color: #170f32;
-    padding: 28px;
+    padding: 20px;
 }
 
-footer p{
+footer p {
     font-size: 20px;
 }
